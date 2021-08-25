@@ -1,0 +1,23 @@
+@media only screen and (min-width:992px) {
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  main {
+    width: 65.5%;
+  }
+
+  aside {
+    width: 32%;
+  }
+
+  #main-side img {
+    height: 47vh;
+  }
+
+  p.comments {
+    display: block;
+  }
+}
